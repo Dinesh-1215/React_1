@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+}
+.container{  
+    align-items: center;
+    margin: 8%;
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    background-color: azure;
+    padding:4%;
+    margin: 3%;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px azure;
+}
+.card>img{
+    width: 150px;
+}
+.card .links a{
+    text-decoration: none;
+}
+.card:hover{
+    box-shadow: 2px 2px 2px 2px black;
+}
