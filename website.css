@@ -1,0 +1,11 @@
+
+.right,.left{
+    background-color: #f9f9f9;
+   width: 25%;
+   float: left;    
+}
+.main{
+    background-color: greenyellow;
+    float: left;
+    width:50%;
+} 
